@@ -1,0 +1,50 @@
+@media screen and (max-width: 630px){
+
+    .painel{
+        width: 100%;
+        height: 20%;
+    }
+
+    .mini-painel{
+        width: 100%;
+        height: 15%;
+    }
+    
+
+    .text-history{
+        font-size: 20px;
+        margin: 8px;
+        text-align: center;
+        top: -0.5em;
+    }
+
+
+    #fepasa{
+        padding: 10px;
+        width: 320px;
+        height: 220px;
+    }
+
+    #map{
+        width: 320px;
+        height: 220px;
+    }
+
+    #copan{
+        width: 320px;
+        height: 220px;
+    }
+
+    .points{
+        display: block;
+        margin: 2px;
+    }
+
+    .contentR{
+        padding: 10px;
+        width: 250px;
+        height: 200px;
+        margin: 8px auto;
+    }
+
+}
